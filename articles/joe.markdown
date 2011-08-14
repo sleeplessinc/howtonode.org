@@ -15,7 +15,7 @@ It can be very useful, if not crucial in some situations.
 The latest Node.js documentation (0.5.4 as of this writing) provides this
 paragraph at the end of the description for the `uncaughtException` event:
 
-	Note that uncaughtException is a very crude mechanism for exception handling. Using try / catch in your program will give you more control over your program's flow. Especially for server programs that are designed to stay running forever, uncaughtException can be a useful safety mechanism.
+> Note that uncaughtException is a very crude mechanism for exception handling. Using try / catch in your program will give you more control over your program's flow. Especially for server programs that are designed to stay running forever, uncaughtException can be a useful safety mechanism.
 
 
 [Sleepless Inc.]: http://www.sleepless.com/
