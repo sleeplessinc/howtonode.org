@@ -55,9 +55,9 @@ Why develop with node.js?
 * Hardware becomes very costly at scale
 	[More ...]: http://www.sleepless.com/
 * Runs faster == less hardware needed
-	[More ...]: http://www.sleepless.com/
+	(More ...): http://www.sleepless.com/
 
 
-[Sleepless Inc.]: http://www.sleepless.com/
+(Sleepless Inc.)[http://www.sleepless.com/]
 
 
