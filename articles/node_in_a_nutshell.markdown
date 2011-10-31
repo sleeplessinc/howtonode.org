@@ -33,29 +33,29 @@ Why develop with node.js?
 ### Runs Faster?
 
 * Javascript based on V8
-	[More ...](http://www.sleepless.com)
+	-- [More ...](http://www.sleepless.com)
 * Based entirely on asynchonous call-backs
-	[More ...](http://www.sleepless.com)
+	-- [More ...](http://www.sleepless.com)
 * Highly efficient event system
-	[More ...](http://www.sleepless.com)
+	-- [More ...](http://www.sleepless.com)
 * Single threaded
-	[More ...](http://www.sleepless.com)
+	-- [More ...](http://www.sleepless.com)
 * Meets/exceeds the alternatives in benchmarks
-	[More ...](http://www.sleepless.com)
+	-- [More ...](http://www.sleepless.com)
 
 ### Cheaper to build?
 
 * Programmers are very expensive
-	[More ...](http://www.sleepless.com)
+	-- [More ...](http://www.sleepless.com)
 * Faster to develp = cheaper to develop
-	[More ...](http://www.sleepless.com)
+	-- [More ...](http://www.sleepless.com)
 
 ### Cheaper to operate?
 
 * Hardware becomes very costly at scale
-	[More ...](http://www.sleepless.com)
+	-- [More ...](http://www.sleepless.com)
 * Runs faster == less hardware needed
-	[More ...](http://www.sleepless.com)
+	-- [More ...](http://www.sleepless.com)
 
 
 [Sleepless Inc.](http://www.sleepless.com/)
